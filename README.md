@@ -1,4 +1,4 @@
 # example_repository
 
 Some new text
-cool
+cool2
